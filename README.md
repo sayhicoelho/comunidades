@@ -1,5 +1,3 @@
-## Comunidades brasileiras e grupos para desenvolvedores web.
-
 ### Laravel
 * Site Oficial: https://laravel.com
 * Site Laravel Brasil: http://www.laravel.com.br
@@ -20,11 +18,11 @@
 * Slack Vue.js Brasil: http://www.vuejs-brasil.com.br/tag/slack
 * Gitter: https://gitter.im/vuejs/vue
 
-### Sites/Fóruns/Plataformas para estudar
+### Sites/Fóruns/Plataformas
 * Codecasts: https://codecasts.com.br/lesson
 * Laracasts: https://laracasts.com
 
-### Grupos/Canais no Telegram para desenvolvedores web
+### Grupos/Canais no Telegram
 * Laravel Brasil: https://t.me/laravelbr
 * PHP Brasil: https://t.me/phpbrasil
 * Mundo PHP: https://t.me/MundoPHP
